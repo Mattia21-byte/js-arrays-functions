@@ -6,6 +6,6 @@ arr.sort((a, b)=> a - b);
 console.log(arr);
 
 //ordine decrescente
-arr.sort((a, b)=> b -a);
+arr.sort((a, b)=> b - a);
 console.log(arr);
 
